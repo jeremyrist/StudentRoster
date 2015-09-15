@@ -13,7 +13,7 @@
 | category | value |
 |----------|--------|
 | _sport_  |  :basketball: etc |
-| _team_   | --- |
+| _team_   | Milwaukee Bucks |
 | _drink_  | Milk |
 | _food_   | Burger |
 | _movie_  | Shawshank Redemption |
